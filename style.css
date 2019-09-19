@@ -1,0 +1,41 @@
+#box
+{
+    border: 1px dotted navy;
+    padding-left: 3px;
+    background-color: rgb(195,215,235);
+    width: 260px;
+}
+
+#bouton
+{
+    margin-top: 10px;
+    padding-left: 3px;
+}
+#non
+{
+    width: 190px;
+    display: none;
+}
+p
+{
+    margin-top: 5px;
+    margin-bottom: 3px;
+}
+
+.first
+{
+    background-color: rgb(195,215,235);
+}
+
+td
+{
+    font-family: monospace;
+    padding: 5px;
+    border: 1px solid silver;
+}
+
+table
+{
+    margin-top: 12px;
+    border-collapse: collapse;
+}
